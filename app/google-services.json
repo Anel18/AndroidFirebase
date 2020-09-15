@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "330384641066",
+    "firebase_url": "https://curso-android-firebase-b73c2.firebaseio.com",
+    "project_id": "curso-android-firebase-b73c2",
+    "storage_bucket": "curso-android-firebase-b73c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330384641066:android:33e17478db919f46908753",
+        "android_client_info": {
+          "package_name": "com.alain.cursos.misfotografias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330384641066-euo3tlgl1a7ol617t78fubs6afjt2srg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alain.cursos.misfotografias",
+            "certificate_hash": "95208a16a2b0b6be80d67f388e19239c6c107d9a"
+          }
+        },
+        {
+          "client_id": "330384641066-1qs663qs1m7l347m2bkgoq4elmm9la75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSJllRFI8v4vXWAzAANjqBQ1FqhVlYHQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330384641066-1qs663qs1m7l347m2bkgoq4elmm9la75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
